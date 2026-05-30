@@ -159,6 +159,6 @@ This project showcases the practical application of Machine Learning techniques 
 
 ## 👨‍💻 Author
 
-**Niranjan Varma**
+**Bhargav Ram**
 
-GitHub: https://github.com/niranjanniru-max
+GitHub: https://github.com/bhargav0098
